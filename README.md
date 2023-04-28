@@ -1,5 +1,9 @@
-![Screenshot 2023-04-28 104450](https://user-images.githubusercontent.com/72275107/235065420-90df1fc0-ee29-4a40-8042-3a2b81a9470d.png)
 ![Screenshot 2023-04-28 104305](https://user-images.githubusercontent.com/72275107/235065423-c262e9d2-f7b4-40de-b3dc-503dea339778.png)
+
+After entered data data is displayed on the user interface
+
+![Screenshot 2023-04-28 104450](https://user-images.githubusercontent.com/72275107/235065420-90df1fc0-ee29-4a40-8042-3a2b81a9470d.png)
+
 
 # Getting Started with Create React App
 
